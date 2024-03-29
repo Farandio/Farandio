@@ -27,7 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=Farandio&icon=5&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 Buy me a coffee
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/farandioalkhld) 
+  [![PayPal](https://paypal.me/farandioalkhld?country.x=ID&locale.x=id_ID) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
